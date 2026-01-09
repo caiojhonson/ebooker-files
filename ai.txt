@@ -29,7 +29,7 @@ MAIN CATEGORIES:
 - Personal Development: https://ebooker.com.br/categories/desenvolvimento-pessoal-e-mentalidade
 
 CONTACT:
-- Institutional: https://ebooker.com.br/contato
+- Institutional: https://ebooker.com.br/entre-em-contato
 
 BUSINESS CONTEXT:
 - Model: Free publishing + commission on sales
