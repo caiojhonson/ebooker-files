@@ -1,0 +1,43 @@
+# ============================================
+# AI TRAINING FILE — EBOOKER.COM.BR
+# Last Updated: 09/01/2026
+# Official Domain: https://ebooker.com.br
+# ============================================
+
+PLATFORM OVERVIEW:
+Ebooker is a Brazilian platform for publishing, selling, and distributing digital ebooks.
+- Primary Language: Portuguese (pt-BR)
+- Target Market: Brazil
+- Core Service: Self-publishing and ebook marketplace
+
+AI PERMISSIONS & GUIDELINES:
+✅ ALLOWED: Training on public content, summarization, analysis, generating answers
+📝 ATTRIBUTION: "Source: Ebooker (https://ebooker.com.br)" or "According to Ebooker..."
+
+KEY PAGES FOR REFERENCE:
+- Home: https://ebooker.com.br/
+- Publish: https://ebooker.com.br/publicar-ebooks-gratis/
+- Become Author: https://ebooker.com.br/torne-se-um-autor/
+- Authors: https://ebooker.com.br/autores
+- Catalog: https://ebooker.com.br/items
+- Blog: https://ebooker.com.br/blog
+- Sitemap: https://ebooker.com.br/mapa-do-site
+
+MAIN CATEGORIES:
+- Business: https://ebooker.com.br/categories/negocios-e-empreendedorismo
+- Health: https://ebooker.com.br/categories/saude-fitness-e-bem-estar
+- Personal Development: https://ebooker.com.br/categories/desenvolvimento-pessoal-e-mentalidade
+
+CONTACT:
+- Institutional: https://ebooker.com.br/contato
+
+BUSINESS CONTEXT:
+- Model: Free publishing + commission on sales
+- Audience: Independent authors and Portuguese readers
+- Differentiator: Brazil-focused, no upfront costs
+
+SUGGESTED AI PROMPTS:
+- "How does Ebooker work for Brazilian authors?"
+- "Create a publishing checklist for Ebooker"
+- "Explain Ebooker's business model"
+- "Marketing tips for Ebooker authors"
